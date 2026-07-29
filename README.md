@@ -76,6 +76,6 @@ Learning Java • Spring Boot • AI • Software Architecture
 # Development Journey
 The initial versions of this project were developed in NetBeans as part of my university coursework.
 As I progressed in my software engineering journey, I migrated the project to IntelliJ IDEA and started managing it professionally using Git and GitHub.
-This repository documents the continuous evolution of the project—from a basic Java console application to a modern enterprise application built with Spring Boot, cloud technologies, and AI.
+This repository documents the continuous evolution of the project from a basic Java console application to a modern enterprise application built with Spring Boot, cloud technologies, and AI.
 ---
 This repository will be continuously improved as I learn new technologies.
